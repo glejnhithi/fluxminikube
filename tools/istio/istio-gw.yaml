@@ -16,4 +16,5 @@ spec:
       sourceRef:
         kind: HelmRepository
         name: istio
+        namespace: istio-system
       interval: 1m
