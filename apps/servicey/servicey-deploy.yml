@@ -14,7 +14,7 @@ spec:
         app: servicey
     spec:
       containers:
-      - name: s2s
-        image: glejnhithi/s2s:v1
-        ports:
-        - containerPort: 8080
+        - name: s2s
+          image: glejnhithi/s2s:v1
+          ports:
+          - containerPort: 8080
