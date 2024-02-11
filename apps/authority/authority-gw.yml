@@ -12,3 +12,5 @@ spec:
       number: 8080
       name: http
       protocol: HTTP
+    tls:
+      httpsRedirect: true
